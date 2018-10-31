@@ -34,11 +34,12 @@ Users come from a huge range of industry, academic, and government positions, ac
 ### Demo
 
 Follow instructions at pyviz.org to install, then:
-[Interact:](https://anaconda.org/jbednar/datashadercliffordinteract): Turn a Jupyter notebook into a deployable app with one line of code
-[Attractors:](https://anaconda.org/jbednar/datashaderattractors) Build a complex dashboard directly in a notebook and go back and forth
-[Gapminders:](https://anaconda.org/jbednar/panel_gapminders) Use Matplotlib, Plotly, bokeh, Altair, R ggplot2 -- whatever you like!
-[hvPlot:](https://hvplot.pyviz.org/) Interactive Pandas plots for free!
-[See PyViz.org](PyViz.org) for much, much more.
+
+* [Interact:](https://anaconda.org/jbednar/datashadercliffordinteract): Turn a Jupyter notebook into a deployable app with one line of code
+* [Attractors:](https://anaconda.org/jbednar/datashaderattractors) Build a complex dashboard directly in a notebook and go back and forth
+* [Gapminders:](https://anaconda.org/jbednar/panel_gapminders) Use Matplotlib, Plotly, bokeh, Altair, R ggplot2 -- whatever you like!
+* [hvPlot:](https://hvplot.pyviz.org/) Interactive Pandas plots for free!
+* [See PyViz.org](PyViz.org) for much, much more.
 
 
 ### Roadmap Items
